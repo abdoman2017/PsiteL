@@ -1,0 +1,10 @@
+.mainclass{
+	background-color: red;
+}
+.form-control {
+
+	border-radius: 2px;
+	  transition: border-color 0.9s ease-in-out, box-shadow 0.5s ease-in-out;
+
+  
+}
